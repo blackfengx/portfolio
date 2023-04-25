@@ -2477,3 +2477,14 @@ select.mobile-device {
   .my-box {
     width: 50%;
   }
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #000;
+    margin: 0px 0;
+  }
+
+.white-text {
+    color: white;
+}
